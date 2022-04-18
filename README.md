@@ -5,7 +5,7 @@
 - - - 
 ### Links
 * Login page : https://maksym637.github.io/login.html
-* Registration page :
+* Registration page : https://maksym637.github.io/registration.html
 * Home page : https://maksym637.github.io/home.html
 * Profile page : 
 * Auditorium page :
