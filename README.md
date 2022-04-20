@@ -13,5 +13,7 @@ from overlays (two users cannot reserve an audience for a certain period time).
 * Home page : https://maksym637.github.io/home.html
 * Profile page : https://maksym637.github.io/profile.html
 * Auditorium page : https://maksym637.github.io/auditorium.html
+* Create-Reservation page: https://maksym637.github.io/create_reservation.html
 * Reservation page : https://maksym637.github.io/reservation.html
+* Update-Reservation page : https://maksym637.github.io/update_reservation.html
 - - -
