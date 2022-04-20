@@ -8,6 +8,6 @@
 * Registration page : https://maksym637.github.io/registration.html
 * Home page : https://maksym637.github.io/home.html
 * Profile page : https://maksym637.github.io/profile.html
-* Auditorium page :
+* Auditorium page : https://maksym637.github.io/auditorium.html
 * Reservation page : 
 - - -
