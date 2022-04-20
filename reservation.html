@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>reservation</title>
+        <link rel="stylesheet" href="style/reservation.css">
+    </head>
+    <style>
+        body{
+            background-image: url('images/home.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+        }
+    </style>
+    <body>
+
+        <div class="title">
+            <br>
+            <i>Reservations list</i>
+        </div>
+
+        <div>
+            <br>
+            <button class="nav-button-center" onclick="document.location = 'home.html'"><i>Home</i></button>
+        </div>
+
+        <div>
+            <table class="styled-table">
+                <thead>
+                    <tr>
+                        <th>No</th>
+                        <th>Username</th>
+                        <th>Auditorium</th>
+                        <th>Reserved-Time-Start</th>
+                        <th>Reserved-Time-End</th>
+                        <th>Change</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>username1</td>
+                        <td>10</td>
+                        <td>2023-5-28 12:30:00</td>
+                        <td>2023-5-28 14:30:00</td>
+                        <td><button class="button-edit">edit</button></td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>username2</td>
+                        <td>20</td>
+                        <td>2023-5-28 15:00:00</td>
+                        <td>2023-5-28 18:30:00</td>
+                        <td><button class="button-edit">edit</button></td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>username3</td>
+                        <td>30</td>
+                        <td>2023-5-30 11:00:00</td>
+                        <td>2023-5-30 12:15:00</td>
+                        <td><button class="button-edit">edit</button></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </body>
+</html>
